@@ -317,13 +317,15 @@ ul#menu-main > li > a:hover {
 }
 .list span {
 	float: right;
-	color: #B9B9B9;
+	color: #ffffff;
+	text-shadow: black 0.1em 0.1em 0.2em;
 	text-transform: capitalize;
 	font-size: 16px;
 }
 .list strong {
 	font-size: 1em;
-	color: #B9B9B9;
+	color: #ffffff;
+	text-shadow: black 0.1em 0.1em 0.2em;
 	text-align: right;
 	float:left;
 	width: 49% !important;
@@ -331,7 +333,8 @@ ul#menu-main > li > a:hover {
 }
 .list em {
 	font-size: 1em;
-	color: #B9B9B9;
+	color: #ffffff;
+	text-shadow: black 0.1em 0.1em 0.2em;
 	text-align: left;
 	float:left;
 	width: 53px !important;
@@ -424,7 +427,7 @@ section.single-page h1 {
 #about {
 		background-image: url(../img/bg.png);
 	background-repeat: repeat;
-	height: 406px;
+	height: 565px;
 	z-index: 500;
 	box-shadow: 0 5px 16px rgba(0, 0, 0, 0.3);
 	-moz-box-shadow: 0 5px 16px rgba(0, 0, 0, 0.3);
